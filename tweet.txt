@@ -1,0 +1,11 @@
+#COVID-19KE stats for 2020-06-09:
+           
+Kenya:           
+Cases: 2,989 (+127)           
+Deaths: 88 (+3)           
+Growth factor: 1.34
+           
+World:           
+Cases: 7,245,056 (+54,609)           
+Deaths: 409,672 (+1,432)           
+Growth factor: 0.51
